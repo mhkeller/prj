@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mhkeller/prj/issues"
   },
-  "homepage": "https://github.com/mhkeller/prj#readme"
+  "homepage": "https://github.com/mhkeller/prj#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
