@@ -1,4 +1,3 @@
-const path = require('path');
-const io = require('indian-ocean');
-const notify = require('wsk-notify');
-// require('dotenv').config();
+import path from 'path';
+import io from 'indian-ocean';
+import notify from 'wsk-notify';
