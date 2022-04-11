@@ -1,3 +1,7 @@
-import path from 'path';
-import io from 'indian-ocean';
+import { join, basename } from 'path';
+import { readDataSync, writeDataSync} from 'indian-ocean';
 import notify from 'wsk-notify';
+
+const outDir = '';
+
+const files = readDataSync('./in/');
