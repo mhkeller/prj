@@ -4,4 +4,4 @@ import notify from 'wsk-notify';
 
 const outDir = '';
 
-const files = readDataSync('./in/');
+const data = readDataSync('./in/');
