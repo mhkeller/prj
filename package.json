@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mhkeller/prj#readme",
   "dependencies": {
-    "@mhkeller/utils": "github:mhkeller/utils",
+    "@mhkeller/utils": "^1.4.0",
     "dotenv": "^8.6.0"
   },
   "devDependencies": {
