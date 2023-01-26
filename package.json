@@ -20,7 +20,9 @@
   "homepage": "https://github.com/mhkeller/prj#readme",
   "dependencies": {
     "@mhkeller/utils": "^1.4.0",
-    "dotenv": "^8.6.0"
+    "dotenv": "^8.6.0",
+    "indian-ocean": "^4.0.3",
+    "wsk-notify": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
