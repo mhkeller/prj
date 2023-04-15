@@ -19,18 +19,17 @@
   },
   "homepage": "https://github.com/mhkeller/prj#readme",
   "dependencies": {
-    "@mhkeller/utils": "^1.4.0",
+    "@mhkeller/notify": "^1.1.0",
+    "@mhkeller/utils": "^2.4.0",
     "dotenv": "^8.6.0",
-    "indian-ocean": "^4.0.3",
-    "wsk-notify": "^1.0.0"
+    "indian-ocean": "^4.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.5",
-    "@babel/eslint-parser": "^7.17.0",
-    "eslint": "^8.8.0",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.25.4",
-    "prettier": "^2.5.1"
+    "eslint": "^8.38.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
   }
 }
