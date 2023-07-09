@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mhkeller/prj#readme",
   "dependencies": {
     "@mhkeller/notify": "^1.1.0",
-    "@mhkeller/utils": "^2.4.0",
+    "@mhkeller/utils": "^5.2.0",
     "dotenv": "^8.6.0",
     "indian-ocean": "^4.0.3"
   },
