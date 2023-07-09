@@ -1,7 +1,7 @@
 import { join, basename } from 'path';
 import { readDataSync } from 'indian-ocean';
 import { writeSync, sleep } from '@mhkeller/utils';
-import notify from 'wsk-notify';
+import notify from '@mhkeller/notify';
 
 const outDir = '0_out';
 
