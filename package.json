@@ -23,8 +23,5 @@
     "@mhkeller/utils": "^7.1.1",
     "dotenv": "^8.6.0",
     "indian-ocean": "^4.0.3"
-  },
-  "devDependencies": {
-    "eslint-plugin-import": "^2.26.0"
   }
 }
