@@ -5,7 +5,7 @@
   "main": "0_index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node scripts/0_index.js"
   },
   "repository": {
     "type": "git",
