@@ -21,9 +21,7 @@
     "@mhkeller/notify": "^1.2.0",
     "@mhkeller/utils": "^7.3.0",
     "dotenv": "^16.5.0",
-    "indian-ocean": "^4.0.3"
-  },
-  "devDependencies": {
+    "indian-ocean": "^4.0.3",
     "prettier": "^3.5.3"
   }
 }
