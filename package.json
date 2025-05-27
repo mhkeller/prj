@@ -1,0 +1,29 @@
+{
+  "name": "prj",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "0_": "node scripts/0_.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhkeller/prj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhkeller/prj/issues"
+  },
+  "homepage": "https://github.com/mhkeller/prj#readme",
+  "dependencies": {
+    "@mhkeller/notify": "^1.2.0",
+    "@mhkeller/utils": "^7.3.0",
+    "dotenv": "^16.5.0",
+    "indian-ocean": "^4.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
