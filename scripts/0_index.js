@@ -1,4 +1,5 @@
 import { join, basename } from 'path';
+// @ts-ignore
 import { readDataSync } from 'indian-ocean';
 import { writeSync, sleep, initLogProgress, commas } from '@mhkeller/utils';
 import notify from '@mhkeller/notify';
