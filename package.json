@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "0_": "node scripts/0_.js"
+    "0_start": "node scripts/0_index.js"
   },
   "repository": {
     "type": "git",
