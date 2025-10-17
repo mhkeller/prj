@@ -7,6 +7,7 @@
 		"checkJs": true,
 		"noImplicitAny": true,
 		"strict": true,
+		"erasableSyntaxOnly": true,
 		"module": "ESNext",
 		"target": "ESNext",
 		"resolveJsonModule": true,
